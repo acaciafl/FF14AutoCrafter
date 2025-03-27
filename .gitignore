@@ -1,0 +1,7 @@
+.venv
+build
+dist
+ff14_auto_crafter.spec
+.vscode
+.pytest_cache
+__pycache__
